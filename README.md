@@ -1,154 +1,138 @@
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Santanu+Panchadhyai;Computer+Science+Student;Data+Science+%7C+Full+Stack+Dev;Building+things+that+matter)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Santanu-SP&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
 
-</div>
+&lt;img src=&quot;https://komarev.com/ghpvc/?username=Santanu-SP&amp;label=Profile%20Views&amp;color=2F80ED&amp;style=flat-square&quot; alt=&quot;Santanu-SP&quot; /&gt;
 
----
+&lt;/div&gt;
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Computer Science student** passionate about building impactful software — from AI-powered applications to full-stack platforms. I enjoy turning complex problems into clean, efficient solutions.
+I'm a **B.Tech Computer Science (AI/ML)** student at **Polaris School of Technology, Bengaluru** (2025–2029) focused on building **full-stack products**, **RAG & Agentic AI systems**, and **cloud-backed platforms**.
 
-- 🎓 Pursuing a degree in **Computer Science**
-- 🌱 Currently deepening my knowledge in **Machine Learning & React**
-- 🤝 Open to **collaborations** on open-source and student projects
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/santanu-panchadhyai-03189733a)
-
----
-
-## 🚀 Featured Projects
-
-### 🏆 Major Projects & Collaborations
+- Currently building **AI Research Assistant** (multimodal RAG & citation-grounded research workspace) and **GyanSutra** (scripture digital library & AI companion)
+- Working across **React / TypeScript**, **Python / FastAPI**, **Node.js / PostgreSQL**, and **AWS**
+- Certified in **Data Science & AI** (IIT Madras) and **Cyber Security** (Corizo)
+- Open to **collaborations** on AI, full-stack, and open-source projects
+- Portfolio: [santanu-sp.github.io/Profile-Website](https://santanu-sp.github.io/Profile-Website/) · [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/santanu-panchadhyai-03189733a)
 
 ---
 
-#### 🚑 [ERIS — Emergency Response Intelligent System](https://github.com/MadhavS123-cloud/ERIS-Emergency-Response-Intelligent-System-)
-> **Co-developer & Lead Contributor** · *113+ commits · Top contributor across the entire repo*
+## Featured Projects
 
-A real-time, production-grade emergency response platform connecting **patients**, **ambulance drivers**, **hospitals**, and **fleet administrators**. Built as a full-stack monorepo with three decoupled microservice architectures.
+### [AI Research Assistant](https://github.com/Santanu-SP/AI-Research-Assistant)
+> **Full-Stack & AI/RAG** · *FastAPI · React/Vite · TypeScript · Neon PostgreSQL (pgvector) · Cloudflare R2*
 
-- **Frontend** — React 19 + Vite: Live GPS tracking, role-based portals, interactive maps (Leaflet)
-- **Backend** — Node.js + Express: JWT auth, Socket.IO WebSockets, BullMQ async queues, PostgreSQL + Prisma ORM
-- **Admin Dashboard** — Python + Streamlit: Cyberpunk sci-fi telemetrics UI with Plotly visualizations & fleet monitoring
+An evidence-first research workspace for searching uploaded documents and producing citation-grounded answers with traceable source excerpts, multimodal ingestion, and a free-tier LLM router.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+### [GyanSutra](https://gyansutraapp.com)
+> **Personal Product (In Development)** · *React 19 · Vite · Tailwind CSS 4 · Semantic Retrieval*
 
-🌐 **Live:** [eris-emergency-response-intelligent.vercel.app](https://eris-emergency-response-intelligent.vercel.app)
+A scripture-focused digital library centered on the Bhagavad Gita and Valmiki Ramayana, paired with **Sarathi AI** for embedding-based semantic search and verse-level citations.
 
----
+### [VigilProof](https://github.com/Santanu-SP/VigilProof)
+> **Cyber-Fraud Investigation System** · *Python · JavaScript · Amazon Bedrock AgentCore · AWS Lambda · DynamoDB*
 
-#### 📰 [Fake News Detector](https://github.com/Santanu-SP/Fake-News_Detector)
-> **Solo Developer** · *End-to-end ML pipeline · ~99% accuracy*
+An evidence-first cyber-fraud investigation system that safely analyzes suspicious screenshots, messages, and URLs before a user takes action.
 
-A production-grade NLP system that detects misinformation with near-perfect accuracy. Paste any news article and get an instant verdict with confidence scores and explainable word attributions.
+### [GlideTherm](https://www.google.com/search?q=https://github.com/Santanu-SP/GlideTherm)
+> **Environmental Intelligence Platform** · *TypeScript · React 18 · Tailwind CSS · Node.js · AWS Lambda · DynamoDB · AWS Amplify*
 
-- TF-IDF vectorization (10,000 features, unigrams + bigrams) + Logistic Regression
-- Benchmarked 4 models: Logistic Regression, Passive Aggressive, Linear SVM, Naive Bayes
-- Trained on 44,000+ articles from Kaggle; full EDA with visualizations
-- Deployed as a Streamlit web app with top-influencing-word explainability per prediction
+A production-grade workforce planning platform that helps supervisors anticipate environmental heat risk, assess thermal strain, and schedule outdoor work safely.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.x-green?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### [ERIS — Emergency Response Intelligent System](https://github.com/MadhavS123-cloud/ERIS-Emergency-Response-Intelligent-System-)
+> **Co-Developer & Lead Contributor** · *React 19 · Vite · Leaflet · Node.js · Express · Socket.IO · BullMQ · PostgreSQL · Prisma · Streamlit*
+
+A real-time, multi-role emergency response platform connecting patients, ambulance drivers, hospitals, and fleet admins with live GPS tracking, async job queues, and an operations telemetry dashboard.
+
+**Live:** [eris-emergency-response-intelligent.vercel.app](https://eris-emergency-response-intelligent.vercel.app/)
 
 ---
 
-#### 🕐 [Real-Time World Timezone Clock Widget Suite](https://github.com/Santanu-SP/Real-Time-World-Timezone-Clock-Widget-Suite)
-> **Solo Developer** · *36 commits · Live deployed · 1 fork*
+### More Projects
 
-A polished, feature-rich web app for tracking time and weather across multiple timezones simultaneously.
-
-- Dual analog/digital clock views, dark/light mode with smooth view transitions
-- OpenWeatherMap API integration for live weather per city
-- "Time Travel" slider (±24 hours) for cross-timezone meeting planning
-- IST comparison per card, searchable timezone dropdown, localStorage persistence
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-🌐 **Live:** [real-time-world-timezone-clock-widg.vercel.app](https://real-time-world-timezone-clock-widg.vercel.app)
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **PocketSafe** | Personal finance PWA for college students with real-time Firestore ledger sync | JS, PWA, Firestore | [Repo](https://www.google.com/search?q=https://github.com/Santanu-SP/Pocket-Safe) |
+| **Fake News Detector** | End-to-end NLP pipeline on 44k+ articles with TF-IDF & explainability | Python, NLTK, Scikit-learn, Streamlit | [Repo](https://github.com/Santanu-SP/Fake-News_Detector) · [Live](https://www.google.com/search?q=https://fake-newsdetector-sp.streamlit.app/) |
+| **Aegis AI Classifier** | Spam email detection pipeline (~98.65% Linear SVM accuracy) | Python, NLTK, Scikit-learn, Streamlit | [Repo](https://github.com/Santanu-SP/Aegis-AI-Classifier) · [Live](https://www.google.com/search?q=https://aegis-ai-classifier-sp.streamlit.app/) |
+| **World Timezone Clock Suite** | Dual analog/digital timezone & weather widgets with ±24h time travel | HTML5, CSS3, JavaScript | [Repo](https://github.com/Santanu-SP/Real-Time-World-Timezone-Clock-Widget-Suite) · [Live](https://real-time-world-timezone-clock-widg.vercel.app/) |
+| **AlgoXray** | Interactive algorithm analysis & hyperparameter comparison platform | Algorithms, Visualization | [Repo](https://www.google.com/search?q=https://github.com/Santanu-SP/AlgoXray) |
+| **EatWise** | Smart nutrition & meal-planning Progressive Web App | JavaScript, PWA | [Repo](https://github.com/Santanu-SP/EatWise) |
+| **Kisan-Saathi** | Platform empowering farmers with government schemes & crop insights | HTML, CSS, JavaScript | [Repo](https://github.com/Santanu-SP/Kisan-Saathi) |
 
 ---
 
-#### 🛡️ [Aegis AI Classifier](https://github.com/Santanu-SP/Aegis-AI-Classifier)
-> **Solo Developer** · *ML Classification System*
+## Tech Stack
 
-An AI-powered classification system demonstrating practical machine learning applied to content analysis and intelligent categorization tasks.
+**Languages:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
 
-### 🌱 Other Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🥗 EatWise](https://github.com/Santanu-SP/EatWise) | Smart nutrition-focused web application | CSS, JS |
-| [🌾 Kisan-Saathi](https://github.com/Santanu-SP/Kisan-Saathi) | Platform empowering farmers with government schemes & agri knowledge | HTML, CSS, JS |
-| [🎮 Tic-Tac-Toe](https://github.com/Santanu-SP/Tic-Tac-Toe-game-) | Classic game with clean JavaScript logic | JavaScript |
 
----
 
-## 🛠️ Tech Stack
 
-**Web:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Frontend & Backend:**
 
-**Data & ML:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Santanu-SP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&hide_rank=false" />
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu-SP&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F80ED" />
 
-</div>
 
-<div align="center">
+**Data, AI & Databases:**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Santanu-SP&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&dates=888888)](https://git.io/streak-stats)
 
-</div>
+
+
+
+
+
+
+**Cloud & Tools:**
+
+
+
+
+
+
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Stats
 
-[![Santanu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santanu-SP&theme=github-compact&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+&lt;div align=&quot;center&quot;&gt;
 
----
+&lt;img height=&quot;130&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=Santanu-SP&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F80ED&amp;text_color=8B949E&amp;icon_color=2F80ED&quot; /&gt;
+&lt;img height=&quot;130&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=Santanu-SP&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=2F80ED&amp;text_color=8B949E&quot; /&gt;
 
-## 🤝 Connect With Me
+&lt;/div&gt;
 
-<div align="center">
+&lt;div align=&quot;center&quot;&gt;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-panchadhyai-03189733a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santanu-SP)
+[](https://git.io/streak-stats)
 
-</div>
+&lt;/div&gt;
 
----
+## Contribution Graph
 
-<div align="center">
+[](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Connect With Me
+
+&lt;div align=&quot;center&quot;&gt;
+
+[LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/santanu-panchadhyai-03189733a)
+[](https://santanu-sp.github.io/Profile-Website/)
+[LeetCode](https://www.google.com/search?q=https://leetcode.com/u/santanu436ad/)
+[](https://www.codechef.com/users/string_lamp_28)
+
+&lt;/div&gt;
+
+&lt;div align=&quot;center&quot;&gt;
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
-</div>
+&lt;/div&gt;
